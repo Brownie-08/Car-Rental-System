@@ -21,7 +21,7 @@ Automated Receipts: After a successful rental, users receive a PDF receipt, prov
 **Technology Stack**
 Backend: Django - A high-level Python web framework that encourages rapid development and clean, pragmatic design.
 Frontend: Bootstrap 3.3.6 - Ensures a responsive and mobile-friendly user interface.
-Database: PostgreSQL (or your preferred DBMS) - Robust and scalable database management.
+Database: MySQL (or your preferred DBMS) - Robust and scalable database management.
 PDF Generation: WeasyPrint (or ReportLab) - For generating clean, professional-looking PDF receipts.
 Getting Started
 To get started with this project, clone the repository and follow the installation instructions below:
